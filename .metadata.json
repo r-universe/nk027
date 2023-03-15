@@ -1,14 +1,14 @@
 [
   {
-    "package": "BVAR",
-    "oncran": true
-  },
-  {
     "package": "BVARverse",
     "oncran": true
   },
   {
     "package": "sanic",
+    "oncran": true
+  },
+  {
+    "package": "BVAR",
     "oncran": true
   }
 ]
