@@ -1,5 +1,9 @@
 [
   {
+    "package": "bsreg",
+    "oncran": true
+  },
+  {
     "package": "BVAR",
     "oncran": true
   },
