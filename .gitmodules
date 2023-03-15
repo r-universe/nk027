@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BVAR"]
+	path = BVAR
+	url = https://github.com/nk027/bvar
+	shallow = true
+	registered = true
 [submodule "BVARverse"]
 	path = BVARverse
 	url = https://github.com/nk027/bvarverse
@@ -11,10 +16,5 @@
 [submodule "sanic"]
 	path = sanic
 	url = https://github.com/nk027/sanic
-	shallow = true
-	registered = true
-[submodule "BVAR"]
-	path = BVAR
-	url = https://github.com/nk027/bvar
 	shallow = true
 	registered = true
