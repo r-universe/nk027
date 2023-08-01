@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bsreg"]
-	path = bsreg
-	url = https://github.com/nk027/bsreg
 [submodule "BVAR"]
 	path = BVAR
 	url = https://github.com/nk027/bvar
 [submodule "BVARverse"]
 	path = BVARverse
 	url = https://github.com/nk027/bvarverse
+[submodule "bsreg"]
+	path = bsreg
+	url = https://github.com/nk027/bsreg
 [submodule "sanic"]
 	path = sanic
 	url = https://github.com/nk027/sanic
